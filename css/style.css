@@ -1,0 +1,257 @@
+body {
+    background-color:rgb(252, 252, 252) ;
+}
+/* First Section */
+.first-section {
+    background-color: #F0FFF0;
+}
+.navbar {
+    padding: 3.5% 0% 7% 6%;
+}
+.nav-item {
+    padding: 15px;
+}
+.nav a {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.logo {
+    width: 190px;
+}
+.nav-link {
+    color: black;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.button {
+    background-color: #21B573;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 30px;
+    transition: .3s ease-in;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.button:hover {
+    font-size: 18px;
+}
+.orange {
+    color: #FD511A;
+}
+.banner span {
+    color: #21B573;
+}
+.grey {
+    color: gray;
+}
+.banner img {
+    width: 100%;
+}
+.banner {
+    padding-left: 6%;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+/* End of First Section */
+
+
+
+/* Start of Second Section  */
+
+.detail {
+    text-align: center;
+    height: 100%;
+    padding-top: 14%;
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 20px;
+}
+.detail img {
+    height: 50%;
+    width: 35%;
+}
+.card-title {
+    color: black;
+    transition: 1s;
+}
+.card-title:hover {
+    color: #21B573;
+    font-size: 25px;
+}
+#shadow {
+    overflow: hidden;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius:10px ;
+}
+
+/* End of Second Section */
+
+
+
+/* Online Courses start */
+
+.section-header {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+.course {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    border: none;
+    border-radius: 15px;
+}
+.course img {
+    height: 60%;
+    width: 90%;
+    padding-top: 4.8%;
+}
+.button1 {
+    background-color: #21B573;
+    padding: 2% 10%;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    transition: .3s ease;
+    cursor: pointer;
+    overflow: hidden;
+}
+.button1:hover {
+    font-size: 20px;
+}
+.course-icons {
+    margin-bottom: 5%;
+}
+.course-icons img{
+    height: 35px;
+    width: 22px;
+    margin-bottom: 11px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.course-icons span{
+ font-size: 16px;
+ font-weight: 400;
+ color: gray;
+}
+.calender-icon{
+    float: left;
+    padding-right: 40px;
+    
+}
+.people-icon{
+    float: right;
+    margin-right: 10px;
+}
+
+
+/* Testimonial Start */
+
+.testimonial {
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-bottom: 6%;
+}
+.testimonial img {
+    border-radius: 50%;
+}
+.testimonial h5 {
+    padding-top: 5%;
+}
+
+/* End of Testimonial */
+
+
+/* About Teacher */
+
+.teacher {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.teacher div {
+    border: none;
+    text-align: center;
+    background-color: #F0FFF0;
+    border-radius: 20px;
+    padding-top: 3%;
+}
+.teacher img {
+    width: 50%;
+    border-radius: 50%;
+}
+.teacher h4 {
+    text-transform: uppercase;
+}
+.social-icon img {
+    height: 40px;
+    width: 30px;
+    margin-right: 20px;
+    margin-bottom: 5%;
+    overflow: hidden;
+    transition: .4s ease-in-out;
+}
+.social-icon img:hover {
+    height: 50px;
+    width: 40px;
+}
+
+
+/* Subscribe */
+
+.newsletter {
+    background-color: #F0FFF0;
+    font-weight: 750;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+}
+.newsletter h3 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-bottom: 3%;
+}
+.newsletter input {
+    padding: 5%;
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 7px;
+    background-color: rgb(226, 220, 220);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+/* End of Subscribe */
+
+/* Footer */
+footer {
+    background-color: #282531;
+    color: white;
+    padding-top: 6%;
+    margin-top: 5%;
+
+}
+.left {
+    font-size: 19px;
+    font-weight: 300;
+    padding-top: 5%;
+}
+.title {
+    padding: 4%;
+}
+.title p {
+    color: lightgray;
+}
+.copyright {
+    text-align: center;
+    color: gray;
+    padding-bottom: 12px;
+}
+/* End of Footer */
